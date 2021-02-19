@@ -6,10 +6,7 @@ This is a task-manager API having the following features:
 - Support for sorting, pagination and filtering of tasks
 - Sending emails to users at signup and account deactivation
 
----
-
 ## Things learnt while doing this project
----
 
 - Implementing REST API's 
 - Integrating Cloud Database into webapp(MongoDB Atlas)
